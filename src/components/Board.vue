@@ -28,7 +28,7 @@ button {
   font-size: 3em;
   font-family: "Courier New", Courier, monospace;
 
-  /* Flip the grid into a keypad (for easier keyboard input) */
+  /* Flip the grid into a numpad (for easier keyboard input) */
   &:nth-child(-n + 6) {
     grid-row: 2;
   }
