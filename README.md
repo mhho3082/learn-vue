@@ -1,9 +1,13 @@
-# `learn-vue`
+<p align="center">
 
-A simple Tic Tac Toe game with AI and time travel,
-made with JavaScript, Vue.js, HTML, and SCSS.
+<h1>Tic Tac Toe</h1>
+
+_A simple Tic Tac Toe game with AI and time travel,
+made with JavaScript, Vue.js, HTML, and SCSS._
 
 ![Screenshot](./screenshot.png)
+
+</p>
 
 ## Quick start
 
