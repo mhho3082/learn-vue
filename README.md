@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 <h1>Tic Tac Toe</h1>
 
@@ -7,7 +7,7 @@ made with JavaScript, Vue.js, HTML, and SCSS._
 
 ![Screenshot](./screenshot.png)
 
-</p>
+</div>
 
 ## Quick start
 
