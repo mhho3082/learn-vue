@@ -33,6 +33,8 @@ npx vite
 The website "Tic Tac Toe" should then be available at `http://localhost:3000/`,
 hosted by the `vite` server.
 
+## How to play
+
 You can use your mouse or number pad to pick squares on the tic-tac-toe board.
 You can also use the list of steps on the right to jump to any step played.
 
@@ -42,13 +44,6 @@ and the board will be cleared.
 
 ## Credits
 
-The file that are completely written by me are:
-
-- `src/App.vue`
-- `src/components/Board.vue`
-- `README.md`, which is this file
-
-This app project is initiated with Vue's `create` feature,
-which uses a template to automatically initialize a project.
-I had based my application on this template, and modified it for a bit.
-Nonetheless, credits of files such as `vite.config.js` goes to the Vue and `vite` developers.
+Some files, such as `vite.config.js`,
+come from a template by Vue's `create` function.
+Credits of these files goes to the Vue and `vite` developers.
