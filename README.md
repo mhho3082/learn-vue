@@ -33,9 +33,17 @@ npx vite
 The website "Tic Tac Toe" should then be available at `http://localhost:3000/`,
 hosted by the `vite` server.
 
+You can use your mouse or number pad to pick squares on the tic-tac-toe board.
+You can also use the list of steps on the right to jump to any step played.
+
+AI is on by default;
+you can toggle it with the button in the top right corner,
+and the board will be cleared.
+
 ## Credits
 
 The file that are completely written by me are:
+
 - `src/App.vue`
 - `src/components/Board.vue`
 - `README.md`, which is this file
