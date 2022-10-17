@@ -3,7 +3,7 @@
 <h1>Tic Tac Toe</h1>
 
 _A simple Tic Tac Toe game with AI and time travel,
-made with JavaScript, Vue.js, HTML, and SCSS._
+made with JavaScript, Vue.js, HTML, and SCSS_
 
 ![Screenshot](./screenshot.png)
 
