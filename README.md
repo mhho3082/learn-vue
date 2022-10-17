@@ -30,7 +30,7 @@ Then, run a `vite` server with `npx`:
 npx vite
 ```
 
-The website "Tic Tac Toe" should then be available at `http://http://localhost:3000/`,
+The website "Tic Tac Toe" should then be available at `http://localhost:3000/`,
 hosted by the `vite` server.
 
 ## Credits
